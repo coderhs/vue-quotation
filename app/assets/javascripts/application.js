@@ -12,6 +12,6 @@
 //
 //= require rails-ujs
 //= require turbolinks
-//= vue/dist/vue.min.js
-//= bootstrap-vue/dist/bootstrap-vue.min.js
+//= require vue/dist/vue.min.js
+//= require bootstrap-vue/dist/bootstrap-vue.min.js
 //= require_tree .
