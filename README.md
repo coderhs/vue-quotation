@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an example project showing how to use yarn to install vue.js, bootstrap and bootstrap-vue in
+a rails project.
 
-Things you may want to cover:
+## Run the project
 
-* Ruby version
+* git clone https://github.com/coderhs/vue-quotation.git
+* bundle
+* yarn install
+* bundle exec rails s
 
-* System dependencies
+## Issues
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If you face any issues feel free to get in touch with me through github issues or tweet to me @coderhs
