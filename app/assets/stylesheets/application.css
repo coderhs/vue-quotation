@@ -11,5 +11,7 @@
  * It is generally better to create a new file per style scope.
  *
  *= require_tree .
+ *= bootstrap/dist/css/bootstrap.min.css
+ *= bootstrap-vue/dist/bootstrap-vue.css
  *= require_self
  */
